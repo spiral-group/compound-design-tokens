@@ -7,7 +7,7 @@
         "description": "Highest contrast text."
       },
       "secondary": {
-        "value": "{color.gray.900}",
+        "value": "{color.gray.1200}",
         "type": "color",
         "description": "Lowest contrast text."
       },
@@ -23,7 +23,7 @@
           "description": "Default text colour for plain actions."
         },
         "accent": {
-          "value": "{color.green.900}",
+          "value": "{color.orange.600}",
           "type": "color",
           "description": "Accent text colour for plain actions."
         },
@@ -35,14 +35,14 @@
       },
       "link": {
         "external": {
-          "value": "{color.blue.1100}",
+          "value": "{color.orange.1300}",
           "type": "color",
           "description": "Text colour for external links."
         }
       },
       "critical": {
         "primary": {
-          "value": "{color.red.900}",
+          "value": "{color.red.1100}",
           "type": "color",
           "description": "Text colour for destructive plain actions."
         }
@@ -63,7 +63,7 @@
       },
       "on-solid": {
         "primary": {
-          "value": "{color.theme.bg}",
+          "value": "{color.orange.1400}",
           "type": "color",
           "description": "For use as text color on top of high-contrast solid backgrounds like primary, accent, or destructive actions."
         }
@@ -95,14 +95,14 @@
           "description": "Decorative text colour (5, Pink) for avatars and usernames."
         },
         "6": {
-          "value": "{color.orange.1100}",
+          "value": "{color.orange.1200}",
           "type": "color",
           "description": "Decorative text colour (6, Orange) for avatars and usernames."
         }
       },
       "badge": {
         "accent": {
-          "value": "{color.green.1100}",
+          "value": "{color.orange.1100}",
           "type": "color",
           "description": "Badge accent text colour"
         },
@@ -122,7 +122,7 @@
     },
     "bg": {
       "subtle-primary": {
-        "value": "{color.gray.400}",
+        "value": "{color.gray.200}",
         "type": "color",
         "description": "Medium contrast surfaces.\nElevation: Default (Level 3)."
       },
@@ -151,17 +151,17 @@
       "action": {
         "primary": {
           "rest": {
-            "value": "{color.gray.1400}",
+            "value": "{color.orange.900}",
             "type": "color",
             "description": "Background colour for primary actions. State: Rest."
           },
           "hovered": {
-            "value": "{color.gray.1200}",
+            "value": "{color.orange.1000}",
             "type": "color",
             "description": "Background colour for primary actions. State: Hover."
           },
           "pressed": {
-            "value": "{color.gray.1100}",
+            "value": "{color.orange.1100}",
             "type": "color",
             "description": "Background colour for primary actions. State: Pressed."
           },
@@ -291,22 +291,22 @@
       },
       "accent": {
         "rest": {
-          "value": "{color.green.900}",
+          "value": "{color.orange.900}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Rest."
         },
         "hovered": {
-          "value": "{color.green.1000}",
+          "value": "{color.orange.1000}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Hover"
         },
         "pressed": {
-          "value": "{color.green.1100}",
+          "value": "{color.orange.1100}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Pressed"
         },
         "selected": {
-          "value": "{color.alpha.green.300}",
+          "value": "{color.alpha.orange.300}",
           "type": "color",
           "description": "Background colour for accent or brand actions. State: Selected"
         },
@@ -318,7 +318,7 @@
       },
       "badge": {
         "accent": {
-          "value": "{color.green.400}",
+          "value": "{color.orange.400}",
           "type": "color"
         },
         "info": {
@@ -350,13 +350,13 @@
         "description": "Used for borders of disabled elements. There's no minimum contrast requirement."
       },
       "focused": {
-        "value": "{color.blue.900}",
+        "value": "{color.orange.900}",
         "type": "color",
         "description": "Used for the focus state outline."
       },
       "interactive": {
         "primary": {
-          "value": "{color.gray.800}",
+          "value": "{color.gray.700}",
           "type": "color",
           "description": "Default contrast for accessible interactive element borders. State: Rest."
         },
@@ -409,12 +409,12 @@
       },
       "accent": {
         "subtle": {
-          "value": "{color.green.700}",
+          "value": "{color.orange.700}",
           "type": "color",
           "description": "accent border intended for keylines on message highlights"
         },
         "primary": {
-          "value": "{color.green.900}",
+          "value": "{color.orange.900}",
           "type": "color",
           "description": "Accent borders for containers"
         }
@@ -427,12 +427,12 @@
         "description": "Highest contrast icons."
       },
       "secondary": {
-        "value": "{color.gray.900}",
+        "value": "{color.gray.1000}",
         "type": "color",
         "description": "Lower contrast icons."
       },
       "tertiary": {
-        "value": "{color.gray.800}",
+        "value": "{color.gray.900}",
         "type": "color",
         "description": "Lowest contrast accessible icons."
       },
@@ -468,19 +468,19 @@
       },
       "accent": {
         "tertiary": {
-          "value": "{color.green.800}",
+          "value": "{color.orange.500}",
           "type": "color",
           "description": "Lowest contrast accessible accent icons."
         },
         "primary": {
-          "value": "{color.green.900}",
+          "value": "{color.orange.500}",
           "type": "color",
           "description": "Highest contrast accessible accent icons."
         }
       },
       "critical": {
         "primary": {
-          "value": "{color.red.900}",
+          "value": "{color.red.1100}",
           "type": "color",
           "description": "High-contrast icon for critical state. State: Rest."
         }
@@ -501,7 +501,7 @@
       },
       "on-solid": {
         "primary": {
-          "value": "{color.theme.bg}",
+          "value": "{color.orange.1400}",
           "type": "color",
           "description": "Highest contrast icon color on top of high-contrast solid backgrounds like primary, accent, or destructive actions."
         }
@@ -517,27 +517,27 @@
     "gradient": {
       "subtle": {
         "stop1": {
-          "value": "{color.alpha.green.500}",
+          "value": "{color.alpha.orange.500}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop2": {
-          "value": "{color.alpha.green.400}",
+          "value": "{color.alpha.orange.400}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop3": {
-          "value": "{color.alpha.green.300}",
+          "value": "{color.alpha.orange.300}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop4": {
-          "value": "{color.alpha.green.200}",
+          "value": "{color.alpha.orange.200}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
         "stop5": {
-          "value": "{color.alpha.green.100}",
+          "value": "{color.alpha.orange.100}",
           "type": "color",
           "description": "Subtle background gradient stop for message highlight and bloom"
         },
@@ -589,7 +589,7 @@
     },
     "separator": {
       "primary": {
-        "value": "{color.gray.400}",
+        "value": "{color.gray.500}",
         "type": "color",
         "description": "Used to separate core sections of the UI as well as containers"
       },

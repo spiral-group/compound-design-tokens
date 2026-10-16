@@ -1,0 +1,21 @@
+compound-design-tokens, Spiral's fork
+Copyright 2026 the Spiral authors.
+
+"The Spiral authors" is Andrii Panasiuk, the individual developer who
+publishes Spiral and holds the copyright in Spiral's changes. Spiral is the
+product's name, not a company.
+
+Source requests: support@spiral.md
+
+This repository is a modified version of Element's compound-design-tokens
+(https://github.com/element-hq/compound-design-tokens),
+Copyright (c) 2025 Element Creations Ltd. and Copyright (c) 2023 - 2025
+New Vector Ltd., licensed under the GNU Affero General Public License v3.0
+only (LICENSE). LICENSE-COMMERCIAL is Element's notice for its own code.
+
+The Spiral authors modified it in 2026: Spiral's colours in tokens/, the
+assets regenerated from them, and the Swift package's settings and
+output (Package.swift, src/configs/getIOSConfig.ts,
+src/formats/templates/swift). The modified
+work is distributed under the same licence. The changes sit on top of the
+upstream tag v10.2.3, so `git diff v10.2.3` lists every file they changed.
