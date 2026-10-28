@@ -75,6 +75,7 @@ val compoundColorsHcDark = SemanticColors(
     borderFocused = DarkHcColorTokens.colorOrange900,
     borderInfoSubtle = DarkHcColorTokens.colorBlue700,
     borderInteractiveHovered = DarkHcColorTokens.colorGray1100,
+    borderInteractivePressed = DarkHcColorTokens.colorGray1400,
     borderInteractivePrimary = DarkHcColorTokens.colorGray700,
     borderInteractiveSecondary = DarkHcColorTokens.colorGray600,
     borderSuccessPrimary = DarkHcColorTokens.colorGreen900,

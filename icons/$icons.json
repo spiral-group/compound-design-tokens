@@ -208,6 +208,10 @@
       "value": "icons/pop-out.svg",
       "type": "icon"
     },
+    "pop-in": {
+      "value": "icons/pop-in.svg",
+      "type": "icon"
+    },
     "arrow-up-right": {
       "value": "icons/arrow-up-right.svg",
       "type": "icon"
@@ -458,6 +462,10 @@
     },
     "sidebar": {
       "value": "icons/sidebar.svg",
+      "type": "icon"
+    },
+    "bluetooth-output": {
+      "value": "icons/bluetooth-output.svg",
       "type": "icon"
     },
     "home-solid": {
@@ -824,8 +832,8 @@
       "value": "icons/space-solid.svg",
       "type": "icon"
     },
-    "guest": {
-      "value": "icons/guest.svg",
+    "guest-solid": {
+      "value": "icons/guest-solid.svg",
       "type": "icon"
     },
     "left-panel-close": {
@@ -862,6 +870,14 @@
     },
     "translate": {
       "value": "icons/translate.svg",
+      "type": "icon"
+    },
+    "captions-solid": {
+      "value": "icons/captions-solid.svg",
+      "type": "icon"
+    },
+    "captions": {
+      "value": "icons/captions.svg",
       "type": "icon"
     },
     "rotate-left": {
@@ -934,6 +950,42 @@
     },
     "save-solid": {
       "value": "icons/save-solid.svg",
+      "type": "icon"
+    },
+    "hourglass-solid": {
+      "value": "icons/hourglass-solid.svg",
+      "type": "icon"
+    },
+    "hourglass": {
+      "value": "icons/hourglass.svg",
+      "type": "icon"
+    },
+    "smart-tiles": {
+      "value": "icons/smart-tiles.svg",
+      "type": "icon"
+    },
+    "blur": {
+      "value": "icons/blur.svg",
+      "type": "icon"
+    },
+    "guest": {
+      "value": "icons/guest.svg",
+      "type": "icon"
+    },
+    "transcribe": {
+      "value": "icons/transcribe.svg",
+      "type": "icon"
+    },
+    "record": {
+      "value": "icons/record.svg",
+      "type": "icon"
+    },
+    "record-border": {
+      "value": "icons/record-border.svg",
+      "type": "icon"
+    },
+    "record-dot": {
+      "value": "icons/record-dot.svg",
       "type": "icon"
     }
   }
