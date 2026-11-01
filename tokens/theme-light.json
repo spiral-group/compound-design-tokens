@@ -14,7 +14,7 @@
         "description": "WCAG: 1.03"
       },
       "200": {
-        "value": "#FFFFFF",
+        "value": "#F2F2F7",
         "type": "color",
         "description": "WCAG: 1.06"
       },
@@ -39,7 +39,7 @@
         "description": "WCAG: 1.75"
       },
       "700": {
-        "value": "#E5E5EA",
+        "value": "#C7C7CC",
         "type": "color",
         "description": "WCAG: 2.25"
       },

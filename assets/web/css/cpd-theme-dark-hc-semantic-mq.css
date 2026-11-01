@@ -1,6 +1,7 @@
 :root {
   --cpd-color-bg-canvas-default-level-1: var(--cpd-color-gray-300);
   --cpd-color-bg-subtle-secondary-level-0: var(--cpd-color-theme-bg);
+  --cpd-color-bg-subtle-primary: var(--cpd-color-gray-200);
   --cpd-color-gradient-action-stop1: var(--cpd-color-orange-1100);
   --cpd-color-gradient-action-stop2: var(--cpd-color-orange-900);
   --cpd-color-gradient-action-stop3: var(--cpd-color-orange-700);

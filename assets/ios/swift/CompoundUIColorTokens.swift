@@ -41,7 +41,7 @@ public final class CompoundUIColorTokens: Sendable {
     public let bgDecorative5 = CompoundCoreUIColorTokens.pink300
     public let bgDecorative6 = CompoundCoreUIColorTokens.orange300
     public let bgInfoSubtle = CompoundCoreUIColorTokens.blue200
-    public let bgSubtlePrimary = CompoundCoreUIColorTokens.gray200
+    public let bgSubtlePrimary = UIColor(named: "bgSubtlePrimary", in: Bundle.module, compatibleWith: nil)!
     public let bgSubtleSecondary = CompoundCoreUIColorTokens.gray300
     public let bgSubtleSecondaryLevel0 = UIColor(named: "bgSubtleSecondaryLevel0", in: Bundle.module, compatibleWith: nil)!
     public let bgSubtleTertiary = CompoundCoreUIColorTokens.gray100

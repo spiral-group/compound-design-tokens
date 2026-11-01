@@ -12,6 +12,11 @@
           "type": "color",
           "description": "Default global background for the user interface.\nElevation: Level 1."
         }
+      },
+      "subtle-primary": {
+        "value": "{color.gray.100}",
+        "type": "color",
+        "description": "Medium contrast surfaces.\nElevation: Default (Level 3)."
       }
     },
     "gradient": {
