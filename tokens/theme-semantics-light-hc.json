@@ -32,12 +32,12 @@
           "description": "Background gradient stop for super and send buttons"
         },
         "stop3": {
-          "value": "{color.orange.900}",
+          "value": "{color.orange.500}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
         "stop4": {
-          "value": "{color.orange.1100}",
+          "value": "{color.orange.800}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },

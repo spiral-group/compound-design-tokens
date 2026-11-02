@@ -188,22 +188,22 @@
         "description": "WCAG: 2.25"
       },
       "800": {
-        "value": "#0863BF",
+        "value": "#4DA2FF",
         "type": "color",
         "description": "WCAG: 3.5"
       },
       "900": {
-        "value": "#0A84FF",
+        "value": "#2E6BE6",
         "type": "color",
         "description": "WCAG: 5.25"
       },
       "1000": {
-        "value": "#2B93FF",
+        "value": "#2A61CF",
         "type": "color",
         "description": "WCAG: 6.5"
       },
       "1100": {
-        "value": "#4DA2FF",
+        "value": "#2455B5",
         "type": "color",
         "description": "WCAG: 8"
       },

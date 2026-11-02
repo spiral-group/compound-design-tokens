@@ -4,7 +4,7 @@
   --cpd-color-bg-subtle-primary: var(--cpd-color-gray-100);
   --cpd-color-gradient-action-stop1: var(--cpd-color-orange-400);
   --cpd-color-gradient-action-stop2: var(--cpd-color-orange-700);
-  --cpd-color-gradient-action-stop3: var(--cpd-color-orange-900);
-  --cpd-color-gradient-action-stop4: var(--cpd-color-orange-1100);
+  --cpd-color-gradient-action-stop3: var(--cpd-color-orange-500);
+  --cpd-color-gradient-action-stop4: var(--cpd-color-orange-800);
   --cpd-color-gradient-action-linear: linear-gradient(180deg, var(--cpd-color-gradient-action-stop1) 0%, var(--cpd-color-gradient-action-stop2) 33%, var(--cpd-color-gradient-action-stop3) 66%, var(--cpd-color-gradient-action-stop4) 100%);
 }

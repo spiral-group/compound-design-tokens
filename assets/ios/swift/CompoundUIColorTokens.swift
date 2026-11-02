@@ -49,13 +49,13 @@ public final class CompoundUIColorTokens: Sendable {
     public let bgSuccessPressed = CompoundCoreUIColorTokens.green1100
     public let bgSuccessRest = CompoundCoreUIColorTokens.green900
     public let bgSuccessSubtle = CompoundCoreUIColorTokens.green200
-    public let borderAccentPrimary = CompoundCoreUIColorTokens.orange900
+    public let borderAccentPrimary = CompoundCoreUIColorTokens.orange500
     public let borderAccentSubtle = CompoundCoreUIColorTokens.orange700
     public let borderCriticalHovered = CompoundCoreUIColorTokens.red1000
     public let borderCriticalPrimary = CompoundCoreUIColorTokens.red900
     public let borderCriticalSubtle = CompoundCoreUIColorTokens.red500
     public let borderDisabled = CompoundCoreUIColorTokens.gray500
-    public let borderFocused = CompoundCoreUIColorTokens.orange900
+    public let borderFocused = CompoundCoreUIColorTokens.orange500
     public let borderInfoSubtle = CompoundCoreUIColorTokens.blue700
     public let borderInteractiveHovered = CompoundCoreUIColorTokens.gray1100
     public let borderInteractivePressed = CompoundCoreUIColorTokens.gray1400
@@ -92,13 +92,13 @@ public final class CompoundUIColorTokens: Sendable {
     public let iconSuccessPrimary = CompoundCoreUIColorTokens.green900
     public let iconTertiary = CompoundCoreUIColorTokens.gray900
     public let iconTertiaryAlpha = CompoundCoreUIColorTokens.alphaGray800
-    public let iconWarningPrimary = CompoundCoreUIColorTokens.orange900
+    public let iconWarningPrimary = CompoundCoreUIColorTokens.orange500
     public let separatorPrimary = CompoundCoreUIColorTokens.gray500
     public let separatorSecondary = CompoundCoreUIColorTokens.gray300
     public let textActionAccent = CompoundCoreUIColorTokens.orange600
     public let textActionPrimary = CompoundCoreUIColorTokens.gray1400
     public let textActionSuccess = CompoundCoreUIColorTokens.green900
-    public let textBadgeAccent = CompoundCoreUIColorTokens.orange1100
+    public let textBadgeAccent = CompoundCoreUIColorTokens.orange800
     public let textBadgeInfo = CompoundCoreUIColorTokens.blue1100
     public let textCriticalPrimary = CompoundCoreUIColorTokens.red1100
     public let textDecorative1 = CompoundCoreUIColorTokens.lime1100
@@ -114,6 +114,6 @@ public final class CompoundUIColorTokens: Sendable {
     public let textPrimary = CompoundCoreUIColorTokens.gray1400
     public let textSecondary = CompoundCoreUIColorTokens.gray1200
     public let textSuccessPrimary = CompoundCoreUIColorTokens.green900
-    public let textWarningPrimary = CompoundCoreUIColorTokens.orange900
+    public let textWarningPrimary = CompoundCoreUIColorTokens.orange500
     public init() { }
 }

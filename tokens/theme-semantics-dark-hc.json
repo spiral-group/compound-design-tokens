@@ -22,12 +22,12 @@
     "gradient": {
       "action": {
         "stop1": {
-          "value": "{color.orange.1100}",
+          "value": "{color.orange.800}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
         "stop2": {
-          "value": "{color.orange.900}",
+          "value": "{color.orange.500}",
           "type": "color",
           "description": "Background gradient stop for super and send buttons"
         },
