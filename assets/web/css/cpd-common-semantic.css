@@ -26,7 +26,7 @@
   --cpd-color-bg-action-primary-rest: var(--cpd-color-orange-900);
   --cpd-color-bg-action-primary-hovered: var(--cpd-color-orange-1000);
   --cpd-color-bg-action-primary-pressed: var(--cpd-color-orange-1100);
-  --cpd-color-bg-action-primary-disabled: var(--cpd-color-gray-700);
+  --cpd-color-bg-action-primary-disabled: var(--cpd-color-orange-200);
   --cpd-color-bg-action-secondary-rest: var(--cpd-color-theme-bg);
   --cpd-color-bg-action-secondary-hovered: var(--cpd-color-alpha-gray-200);
   --cpd-color-bg-action-secondary-pressed: var(--cpd-color-alpha-gray-300);

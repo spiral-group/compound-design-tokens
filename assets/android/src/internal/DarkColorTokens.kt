@@ -264,7 +264,7 @@ object DarkColorTokens {
     val colorOrange1200 = Color(0xffe3c39a)
     val colorOrange1300 = Color(0xff6cb2ff)
     val colorOrange1400 = Color(0xffffffff)
-    val colorOrange200 = Color(0xff02162b)
+    val colorOrange200 = Color(0xff2c2c2e)
     val colorOrange300 = Color(0xff322a1d)
     val colorOrange400 = Color(0xff032547)
     val colorOrange500 = Color(0xff0a84ff)

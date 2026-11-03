@@ -11,7 +11,7 @@ public final class CompoundColorTokens: Sendable {
     public let bgAccentRest = CompoundCoreColorTokens.orange900
     public let bgAccentSelected = CompoundCoreColorTokens.alphaOrange300
     public let bgAccentSubtle = CompoundCoreColorTokens.green200
-    public let bgActionPrimaryDisabled = CompoundCoreColorTokens.gray700
+    public let bgActionPrimaryDisabled = CompoundCoreColorTokens.orange200
     public let bgActionPrimaryHovered = CompoundCoreColorTokens.orange1000
     public let bgActionPrimaryPressed = CompoundCoreColorTokens.orange1100
     public let bgActionPrimaryRest = CompoundCoreColorTokens.orange900

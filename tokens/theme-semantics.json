@@ -161,7 +161,7 @@
             "description": "Background colour for primary actions. State: Pressed."
           },
           "disabled": {
-            "value": "{color.gray.700}",
+            "value": "{color.orange.200}",
             "type": "color",
             "description": "Background colour for primary actions. State: Disabled."
           }

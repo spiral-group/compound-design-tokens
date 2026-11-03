@@ -158,7 +158,7 @@
         "description": "WCAG: 1.06"
       },
       "200": {
-        "value": "#E6EDFC",
+        "value": "#C7C7CC",
         "type": "color",
         "description": "WCAG: 1.12"
       },
@@ -208,7 +208,7 @@
         "description": "WCAG: 11.75"
       },
       "1200": {
-        "value": "#8A6534",
+        "value": "#7F5D30",
         "type": "color",
         "description": "WCAG: 13.25"
       },
